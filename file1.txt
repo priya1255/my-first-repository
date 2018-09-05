@@ -2,3 +2,4 @@ file1
 
 adding more lines 
 modifying at remote level
+checking the log command
